@@ -1,6 +1,6 @@
 export const config = {
-  bindInternalServerPort: 25569,
-  bindInternalServerIp: "127.0.0.1",
+  bindInternalServerPort: 37587,
+  bindInternalServerIp: "TheLilFrog2926.aternos.me",
   allowCustomPorts: true,
   allowDirectConnectEndpoints: true,
   disallowHypixel: false,
